@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @DigitalResultsPros
-- 👀 I’m interested in AI, programming, and learning.
-- 🌱 I’m currently learning machine learning applications
-- 💞️ I’m looking to collaborate on interesting projects
-- 📫 How to reach me ds@digitalresultspros.com
+- 👋 Hello! We are @Digital Results Pros
+- 👀 We are interested in AI, programming, and learning.
+- 🌱 We are currently learning machine learning applications
+- 💞️ We are looking to collaborate on interesting projects
+- 📫 How to reach us ds@digitalresultspros.com
 - ⚡ Fun fact: I love golf and simracing
 
 <!---
